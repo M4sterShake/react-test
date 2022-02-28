@@ -1,5 +1,7 @@
+import BigList from './BigList';
+
 function App() {
-  return <div>Hello, World!</div>;
+  return <BigList />;
 }
 
 export default App;
