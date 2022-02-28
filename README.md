@@ -1,6 +1,6 @@
 # React Interview Exercise
 
-In order to prepare for the interview, please pull the code and run the following commands in this directory:
+In order to prepare for the interview, please pull this repo and run the following commands in this directory:
 
 To install the apps dependencies:
 ```
